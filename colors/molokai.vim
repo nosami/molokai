@@ -66,7 +66,7 @@ hi MoreMsg         guifg=#E6DB74
 hi Operator        guifg=#F92672
 
 " complete menu
-hi Pmenu           guifg=#66D9EF guibg=#333333
+hi Pmenu           guifg=#A6E22E guibg=#333333
 hi PmenuSel                      guibg=#808080
 hi PmenuSbar                     guibg=#222222
 hi PmenuThumb      guifg=#66D9EF
