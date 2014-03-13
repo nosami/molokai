@@ -173,6 +173,7 @@ if &t_Co > 255
    hi MatchParen      ctermfg=16  ctermbg=208 cterm=bold
    hi ModeMsg         ctermfg=229
    hi MoreMsg         ctermfg=229
+   hi Normal          ctermbg=NONE
    hi Operator        ctermfg=161
 
    " complete menu
@@ -187,7 +188,6 @@ if &t_Co > 255
    hi Question        ctermfg=81
    hi Repeat          ctermfg=161               cterm=bold
    hi Search          ctermfg=253 ctermbg=66
-
    " marks column
    hi SignColumn      ctermfg=118 ctermbg=235
    hi SpecialChar     ctermfg=161               cterm=bold
